@@ -1,0 +1,11 @@
+{
+  "name": "ClassicTriTip",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/hugo-cacciatori/ror2_classic_tri_tip",
+  "description": "Restores the Tri-Tip Dagger's pre-nerf bleed: 15% chance per dagger, and its own bleed roll on Shatterspleen crits. Configurable. Host-side.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2122",
+    "RiskofThunder-RoR2BepInExPack-1.49.0",
+    "RiskofThunder-HookGenPatcher-1.2.9"
+  ]
+}
